@@ -10,6 +10,7 @@ namespace App1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
             Console.WriteLine("first program");
             Console.ReadLine();
 
