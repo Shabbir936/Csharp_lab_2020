@@ -1,0 +1,7 @@
+D:\shote\Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe.config
+D:\shote\Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe
+D:\shote\Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.pdb
+D:\shote\Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csprojAssemblyReference.cache
+D:\shote\Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csproj.CoreCompileInputs.cache
+D:\shote\Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.exe
+D:\shote\Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.pdb
