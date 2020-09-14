@@ -1,0 +1,7 @@
+D:\shote\Csharp\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+D:\shote\Csharp\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+D:\shote\Csharp\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+D:\shote\Csharp\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csprojAssemblyReference.cache
+D:\shote\Csharp\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+D:\shote\Csharp\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+D:\shote\Csharp\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
