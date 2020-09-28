@@ -205,6 +205,8 @@
         private System.Windows.Forms.ColorDialog colorDialog1;
         private System.Windows.Forms.Button nextButton;
         private System.Windows.Forms.Button previousButton;
+
+        public static string fileName;
     }
 }
 

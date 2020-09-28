@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 
 namespace PictureBox
 {
@@ -49,6 +50,7 @@ namespace PictureBox
             {
                 pictureBox1.Load(openFileDialog1.FileName);
             }
+            PictureBox.fileName = openFileDialog1.FileName;
         }
 
         private void stretchCheckbox_CheckedChanged(object sender, EventArgs e)
@@ -71,20 +73,20 @@ namespace PictureBox
         private void nextButton_Click(object sender, EventArgs e)
         {
 
-            var myImageArray = Directory.GetFiles(Path.GetDirectoryName(openFileDialog1.FileName), "*.jpg");
+            var myImageArray = Directory.GetFiles(Path.GetDirectoryName(PictureBox.fileName), "*.jpg");
             Array.Sort(myImageArray);
-            int currentIndex = Array.IndexOf(myImageArray,openFileDialog1.FileName) + 1;
+            int currentIndex = Array.IndexOf(myImageArray,PictureBox.fileName) + 1;
             pictureBox1.Load(myImageArray[currentIndex]);
-            openFileDialog1.FileName = myImageArray[currentIndex];
+            PictureBox.fileName = myImageArray[currentIndex];
         }
 
         private void previousButton_Click(object sender, EventArgs e)
         {
-            var myImageArray = Directory.GetFiles(Path.GetDirectoryName(openFileDialog1.FileName), "*.jpg");
+            var myImageArray = Directory.GetFiles(Path.GetDirectoryName(PictureBox.fileName), "*.jpg");
             Array.Sort(myImageArray);
-            int currentIndex = Array.IndexOf(myImageArray, openFileDialog1.FileName) - 1;
+            int currentIndex = Array.IndexOf(myImageArray,PictureBox.fileName) - 1;
             pictureBox1.Load(myImageArray[currentIndex]);
-            openFileDialog1.FileName = myImageArray[currentIndex];
+            PictureBox.fileName = myImageArray[currentIndex];
         }
     }
 }
