@@ -1,0 +1,10 @@
+C:\Users\shote\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\shote\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\shote\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.PictureBox.resources
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\shote\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
